@@ -1,10 +1,12 @@
-# Naut
+#r/OutwardGame Skin
+
+## Naut
 
 Naut is a CSS theme you can use on [Reddit](http://www.Reddit.com). It's free to use, any Subreddit can use and edit it. Visit [/r/Naut](http://www.Reddit.com/r/Naut) to preview the theme.
 
 Below is a example view for r/OutwardGame
 
-![Naut 4.2](https://imgur.com/4OPquYi)
+![Naut 4.2](https://i.imgur.com/4OPquYi.png)
 
 ## Installation
 
